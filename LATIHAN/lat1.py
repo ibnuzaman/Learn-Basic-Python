@@ -11,3 +11,4 @@ print("DATA INPUTAN USER")
 print("Nama\t\t: ",nama)
 print("Tanggal lahir\t: ",tgl)
 print("Pekerjaan\t: ",job)
+
